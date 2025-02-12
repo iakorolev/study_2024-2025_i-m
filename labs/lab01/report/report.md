@@ -2,7 +2,7 @@
 ## Front matter
 title: "Шаблон отчёта по лабораторной работе"
 subtitle: "Простейший вариант"
-author: "Королёв Иван"
+author: "Королёв Иван Андреевич )))"
 
 ## Generic otions
 lang: ru-RU
