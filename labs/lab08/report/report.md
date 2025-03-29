@@ -373,3 +373,7 @@ der(Q)= if (Q==0) then max(N*W/R-C,0) else (N*W/R-C);
 # Выводы
 
 В процессе выполнения данной лабораторной работы я реализовал модель TCP/AQM в xcos и OpenModelica.
+
+# Список литературы{.unnumbered}
+::: {#refs}
+:::
