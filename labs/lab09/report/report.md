@@ -2,7 +2,7 @@
 ## Front matter
 title: "Лабораторная работа № 9"
 subtitle: "Голодные студенты"
-author: "Королёв Иван"
+author: "Королёв Иван Андреевич"
 
 ## Generic otions
 lang: ru-RU
